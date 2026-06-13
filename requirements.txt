@@ -7,7 +7,7 @@
 # torchcodec
 # torchaudio==2.7.1
 
-# # Processamento de Áudio Essencial
+# # Processamento de Audio Essencial
 # librosa>=0.10.0
 # soundfile>=0.12.1
 
@@ -21,20 +21,22 @@
 
 
 ##------------------------------------------
-# Seção do pyannote
+# Secao do pyannote
 ##------------------------------------------
 
-# Repositório oficial para baixar o PyTorch com suporte a CUDA 12.6
---extra-index-url https://pytorch.org
+# Repositorio oficial para baixar o PyTorch com suporte a CUDA 12.6
+--extra-index-url https://download.pytorch.org/whl/cu126
 
 # Bibliotecas principais do PyTorch
 torch
 torchvision
 torchaudio
 
-# Manipulação de áudio e vídeo
+# Manipulacao de audio e video
 pydub
 
-# Integração e Diarização
+# Integracao e Diarizacao
 huggingface_hub
 pyannote.audio
+
+dotenv
