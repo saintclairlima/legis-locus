@@ -1,0 +1,40 @@
+##------------------------------------------
+# Testes iniciais feitos com o speechbrain
+##------------------------------------------
+
+
+# torch==2.7.1
+# torchcodec
+# torchaudio==2.7.1
+
+# # Processamento de Áudio Essencial
+# librosa>=0.10.0
+# soundfile>=0.12.1
+
+# # Vetores e Similaridade
+# numpy>=1.24.0
+# scikit-learn>=1.3.0
+
+# # Toolkit de Reconhecimento de Voz
+# speechbrain>=0.5.16
+
+
+
+##------------------------------------------
+# Seção do pyannote
+##------------------------------------------
+
+# Repositório oficial para baixar o PyTorch com suporte a CUDA 12.6
+--extra-index-url https://pytorch.org
+
+# Bibliotecas principais do PyTorch
+torch
+torchvision
+torchaudio
+
+# Manipulação de áudio e vídeo
+pydub
+
+# Integração e Diarização
+huggingface_hub
+pyannote.audio
