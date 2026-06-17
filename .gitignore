@@ -1,5 +1,6 @@
 dados/**/*.mp3
 dados/**/*.mp4
+pretrained_models
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

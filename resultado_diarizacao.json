@@ -1,7 +1,21 @@
 {
+    "vid_4081.mp4": [
+        {
+            "rotulo": "ivanilson_oliveira",
+            "tempo": {
+                "inicio": "00:00:00.031",
+                "fim": "00:01:36.387"
+            },
+            "tempo_segundos": {
+                "inicio": "0.031s",
+                "fim": "96.387s"
+            },
+            "deputado": "Ivanilson Oliveira"
+        }
+    ],
     "vid_4147.mp4": [
         {
-            "rotulo": "[SPEAKER_01]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:00:00.301",
                 "fim": "00:00:13.970"
@@ -9,10 +23,11 @@
             "tempo_segundos": {
                 "inicio": "0.301s",
                 "fim": "13.970s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "dr_bernardo",
             "tempo": {
                 "inicio": "00:00:13.970",
                 "fim": "00:03:54.374"
@@ -20,10 +35,11 @@
             "tempo_segundos": {
                 "inicio": "13.970s",
                 "fim": "234.374s"
-            }
+            },
+            "deputado": "Dr. Bernardo"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "jose_dias",
             "tempo": {
                 "inicio": "00:03:54.374",
                 "fim": "00:03:54.408"
@@ -31,10 +47,11 @@
             "tempo_segundos": {
                 "inicio": "234.374s",
                 "fim": "234.408s"
-            }
+            },
+            "deputado": "José Dias"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "dr_bernardo",
             "tempo": {
                 "inicio": "00:03:54.745",
                 "fim": "00:04:01.698"
@@ -42,10 +59,11 @@
             "tempo_segundos": {
                 "inicio": "234.745s",
                 "fim": "241.698s"
-            }
+            },
+            "deputado": "Dr. Bernardo"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "jose_dias",
             "tempo": {
                 "inicio": "00:04:00.753",
                 "fim": "00:04:02.187"
@@ -53,10 +71,11 @@
             "tempo_segundos": {
                 "inicio": "240.753s",
                 "fim": "242.187s"
-            }
+            },
+            "deputado": "José Dias"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "dr_bernardo",
             "tempo": {
                 "inicio": "00:04:02.187",
                 "fim": "00:04:24.749"
@@ -64,10 +83,11 @@
             "tempo_segundos": {
                 "inicio": "242.187s",
                 "fim": "264.749s"
-            }
+            },
+            "deputado": "Dr. Bernardo"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "jose_dias",
             "tempo": {
                 "inicio": "00:04:25.087",
                 "fim": "00:04:36.123"
@@ -75,10 +95,11 @@
             "tempo_segundos": {
                 "inicio": "265.087s",
                 "fim": "276.123s"
-            }
+            },
+            "deputado": "José Dias"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "dr_bernardo",
             "tempo": {
                 "inicio": "00:04:39.363",
                 "fim": "00:05:36.873"
@@ -86,10 +107,11 @@
             "tempo_segundos": {
                 "inicio": "279.363s",
                 "fim": "336.873s"
-            }
+            },
+            "deputado": "Dr. Bernardo"
         },
         {
-            "rotulo": "[SPEAKER_01]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:05:38.577",
                 "fim": "00:06:01.223"
@@ -97,12 +119,13 @@
             "tempo_segundos": {
                 "inicio": "338.577s",
                 "fim": "361.223s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         }
     ],
     "vid_4161.mp4": [
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:00:19.960",
                 "fim": "00:00:54.368"
@@ -110,10 +133,11 @@
             "tempo_segundos": {
                 "inicio": "19.960s",
                 "fim": "54.368s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "gustavo_carvalho",
             "tempo": {
                 "inicio": "00:00:54.368",
                 "fim": "00:09:01.938"
@@ -121,10 +145,11 @@
             "tempo_segundos": {
                 "inicio": "54.368s",
                 "fim": "541.938s"
-            }
+            },
+            "deputado": "Gustavo Carvalho"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:09:04.992",
                 "fim": "00:09:30.828"
@@ -132,10 +157,11 @@
             "tempo_segundos": {
                 "inicio": "544.992s",
                 "fim": "570.828s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_03]",
+            "rotulo": "kleber_rodrigues",
             "tempo": {
                 "inicio": "00:09:31.385",
                 "fim": "00:14:19.036"
@@ -143,10 +169,11 @@
             "tempo_segundos": {
                 "inicio": "571.385s",
                 "fim": "859.036s"
-            }
+            },
+            "deputado": "Kleber Rodrigues"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:14:22.192",
                 "fim": "00:14:37.852"
@@ -154,10 +181,11 @@
             "tempo_segundos": {
                 "inicio": "862.192s",
                 "fim": "877.852s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_12]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:14:38.847",
                 "fim": "00:20:50.519"
@@ -165,10 +193,11 @@
             "tempo_segundos": {
                 "inicio": "878.847s",
                 "fim": "1250.519s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:20:56.223",
                 "fim": "00:21:06.095"
@@ -176,10 +205,11 @@
             "tempo_segundos": {
                 "inicio": "1256.223s",
                 "fim": "1266.095s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "taveira_junior",
             "tempo": {
                 "inicio": "00:21:09.368",
                 "fim": "00:22:44.037"
@@ -187,10 +217,11 @@
             "tempo_segundos": {
                 "inicio": "1269.368s",
                 "fim": "1364.037s"
-            }
+            },
+            "deputado": "Taveira Júnior"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:22:48.627",
                 "fim": "00:23:16.032"
@@ -198,10 +229,11 @@
             "tempo_segundos": {
                 "inicio": "1368.627s",
                 "fim": "1396.032s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_12]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:23:16.032",
                 "fim": "00:27:50.572"
@@ -209,10 +241,11 @@
             "tempo_segundos": {
                 "inicio": "1396.032s",
                 "fim": "1670.572s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:27:52.310",
                 "fim": "00:27:55.735"
@@ -220,10 +253,11 @@
             "tempo_segundos": {
                 "inicio": "1672.310s",
                 "fim": "1675.735s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_01]",
+            "rotulo": "divaneide_basilio",
             "tempo": {
                 "inicio": "00:27:57.473",
                 "fim": "00:29:19.030"
@@ -231,10 +265,11 @@
             "tempo_segundos": {
                 "inicio": "1677.473s",
                 "fim": "1759.030s"
-            }
+            },
+            "deputado": "Divaneide Basílio"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "eudiane_macedo",
             "tempo": {
                 "inicio": "00:28:11.665",
                 "fim": "00:28:11.902"
@@ -242,10 +277,11 @@
             "tempo_segundos": {
                 "inicio": "1691.665s",
                 "fim": "1691.902s"
-            }
+            },
+            "deputado": "Eudiane Macedo"
         },
         {
-            "rotulo": "[SPEAKER_01]",
+            "rotulo": "divaneide_basilio",
             "tempo": {
                 "inicio": "00:29:19.587",
                 "fim": "00:30:03.783"
@@ -253,10 +289,11 @@
             "tempo_segundos": {
                 "inicio": "1759.587s",
                 "fim": "1803.783s"
-            }
+            },
+            "deputado": "Divaneide Basílio"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:30:07.985",
                 "fim": "00:30:26.581"
@@ -264,10 +301,11 @@
             "tempo_segundos": {
                 "inicio": "1807.985s",
                 "fim": "1826.581s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "gustavo_carvalho",
             "tempo": {
                 "inicio": "00:30:24.455",
                 "fim": "00:30:24.623"
@@ -275,10 +313,11 @@
             "tempo_segundos": {
                 "inicio": "1824.455s",
                 "fim": "1824.623s"
-            }
+            },
+            "deputado": "Gustavo Carvalho"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:30:34.563",
                 "fim": "00:30:44.890"
@@ -286,10 +325,11 @@
             "tempo_segundos": {
                 "inicio": "1834.563s",
                 "fim": "1844.890s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_01]",
+            "rotulo": "divaneide_basilio",
             "tempo": {
                 "inicio": "00:30:45.768",
                 "fim": "00:30:45.785"
@@ -297,10 +337,11 @@
             "tempo_segundos": {
                 "inicio": "1845.768s",
                 "fim": "1845.785s"
-            }
+            },
+            "deputado": "Divaneide Basílio"
         },
         {
-            "rotulo": "[SPEAKER_05]",
+            "rotulo": "cristiane_dantas",
             "tempo": {
                 "inicio": "00:30:45.785",
                 "fim": "00:30:56.737"
@@ -308,10 +349,11 @@
             "tempo_segundos": {
                 "inicio": "1845.785s",
                 "fim": "1856.737s"
-            }
+            },
+            "deputado": "Cristiane Dantas"
         },
         {
-            "rotulo": "[SPEAKER_01]",
+            "rotulo": "divaneide_basilio",
             "tempo": {
                 "inicio": "00:30:48.215",
                 "fim": "00:30:48.974"
@@ -319,10 +361,11 @@
             "tempo_segundos": {
                 "inicio": "1848.215s",
                 "fim": "1848.974s"
-            }
+            },
+            "deputado": "Divaneide Basílio"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:30:49.514",
                 "fim": "00:30:49.987"
@@ -330,10 +373,11 @@
             "tempo_segundos": {
                 "inicio": "1849.514s",
                 "fim": "1849.987s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "eudiane_macedo",
             "tempo": {
                 "inicio": "00:30:49.987",
                 "fim": "00:30:50.020"
@@ -341,10 +385,11 @@
             "tempo_segundos": {
                 "inicio": "1849.987s",
                 "fim": "1850.020s"
-            }
+            },
+            "deputado": "Eudiane Macedo"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:30:50.020",
                 "fim": "00:30:50.037"
@@ -352,10 +397,11 @@
             "tempo_segundos": {
                 "inicio": "1850.020s",
                 "fim": "1850.037s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_05]",
+            "rotulo": "cristiane_dantas",
             "tempo": {
                 "inicio": "00:30:57.125",
                 "fim": "00:30:59.842"
@@ -363,10 +409,11 @@
             "tempo_segundos": {
                 "inicio": "1857.125s",
                 "fim": "1859.842s"
-            }
+            },
+            "deputado": "Cristiane Dantas"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:30:59.403",
                 "fim": "00:33:22.908"
@@ -374,10 +421,11 @@
             "tempo_segundos": {
                 "inicio": "1859.403s",
                 "fim": "2002.908s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "ubaldo_fernandes",
             "tempo": {
                 "inicio": "00:33:23.262",
                 "fim": "00:43:36.787"
@@ -385,10 +433,11 @@
             "tempo_segundos": {
                 "inicio": "2003.262s",
                 "fim": "2616.787s"
-            }
+            },
+            "deputado": "Ubaldo Fernandes"
         },
         {
-            "rotulo": "[SPEAKER_07]",
+            "rotulo": "dr_bernardo",
             "tempo": {
                 "inicio": "00:43:37.613",
                 "fim": "00:43:47.080"
@@ -396,10 +445,11 @@
             "tempo_segundos": {
                 "inicio": "2617.613s",
                 "fim": "2627.080s"
-            }
+            },
+            "deputado": "Dr. Bernardo"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "eudiane_macedo",
             "tempo": {
                 "inicio": "00:43:48.397",
                 "fim": "00:51:34.737"
@@ -407,10 +457,11 @@
             "tempo_segundos": {
                 "inicio": "2628.397s",
                 "fim": "3094.737s"
-            }
+            },
+            "deputado": "Eudiane Macedo"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:51:37.994",
                 "fim": "00:51:43.985"
@@ -418,10 +469,11 @@
             "tempo_segundos": {
                 "inicio": "3097.994s",
                 "fim": "3103.985s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "coronel_azevedo",
             "tempo": {
                 "inicio": "00:51:43.985",
                 "fim": "00:51:44.930"
@@ -429,10 +481,11 @@
             "tempo_segundos": {
                 "inicio": "3103.985s",
                 "fim": "3104.930s"
-            }
+            },
+            "deputado": "Coronel Azevedo"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:51:44.930",
                 "fim": "00:51:44.963"
@@ -440,10 +493,11 @@
             "tempo_segundos": {
                 "inicio": "3104.930s",
                 "fim": "3104.963s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "coronel_azevedo",
             "tempo": {
                 "inicio": "00:51:44.963",
                 "fim": "01:01:05.753"
@@ -451,10 +505,11 @@
             "tempo_segundos": {
                 "inicio": "3104.963s",
                 "fim": "3665.753s"
-            }
+            },
+            "deputado": "Coronel Azevedo"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "01:01:08.858",
                 "fim": "01:01:19.878"
@@ -462,10 +517,11 @@
             "tempo_segundos": {
                 "inicio": "3668.858s",
                 "fim": "3679.878s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_08]",
+            "rotulo": "dr_kerginaldo",
             "tempo": {
                 "inicio": "01:01:28.467",
                 "fim": "01:06:16.979"
@@ -473,43 +529,23 @@
             "tempo_segundos": {
                 "inicio": "3688.467s",
                 "fim": "3976.979s"
-            }
+            },
+            "deputado": "Dr. Kerginaldo"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "01:06:19.865",
-                "fim": "01:06:50.392"
-            },
-            "tempo_segundos": {
-                "inicio": "3979.865s",
-                "fim": "4010.392s"
-            }
-        },
-        {
-            "rotulo": "[SPEAKER_00]",
-            "tempo": {
-                "inicio": "01:06:32.993",
-                "fim": "01:06:38.427"
-            },
-            "tempo_segundos": {
-                "inicio": "3992.993s",
-                "fim": "3998.427s"
-            }
-        },
-        {
-            "rotulo": "[SPEAKER_10]",
-            "tempo": {
-                "inicio": "01:06:50.763",
                 "fim": "01:07:32.461"
             },
             "tempo_segundos": {
-                "inicio": "4010.763s",
+                "inicio": "3979.865s",
                 "fim": "4052.461s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_07]",
+            "rotulo": "dr_kerginaldo",
             "tempo": {
                 "inicio": "01:07:36.967",
                 "fim": "01:07:39.616"
@@ -517,10 +553,11 @@
             "tempo_segundos": {
                 "inicio": "4056.967s",
                 "fim": "4059.616s"
-            }
+            },
+            "deputado": "Dr. Kerginaldo"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "01:07:40.493",
                 "fim": "01:09:52.253"
@@ -528,12 +565,13 @@
             "tempo_segundos": {
                 "inicio": "4060.493s",
                 "fim": "4192.253s"
-            }
+            },
+            "deputado": "Tomba Farias"
         }
     ],
     "vid_4166.mp4": [
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:00:11.658",
                 "fim": "00:00:43.045"
@@ -541,10 +579,11 @@
             "tempo_segundos": {
                 "inicio": "11.658s",
                 "fim": "43.045s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_07]",
+            "rotulo": "hermano_morais",
             "tempo": {
                 "inicio": "00:00:44.598",
                 "fim": "00:06:42.112"
@@ -552,10 +591,11 @@
             "tempo_segundos": {
                 "inicio": "44.598s",
                 "fim": "402.112s"
-            }
+            },
+            "deputado": "Hermano Morais"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:06:44.288",
                 "fim": "00:08:07.010"
@@ -563,10 +603,11 @@
             "tempo_segundos": {
                 "inicio": "404.288s",
                 "fim": "487.010s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_03]",
+            "rotulo": "vivaldo_costa",
             "tempo": {
                 "inicio": "00:08:10.250",
                 "fim": "00:13:21.104"
@@ -574,10 +615,11 @@
             "tempo_segundos": {
                 "inicio": "490.250s",
                 "fim": "801.104s"
-            }
+            },
+            "deputado": "Vivaldo Costa"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:13:29.153",
                 "fim": "00:13:38.030"
@@ -585,10 +627,11 @@
             "tempo_segundos": {
                 "inicio": "809.153s",
                 "fim": "818.030s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "ubaldo_fernandes",
             "tempo": {
                 "inicio": "00:13:38.030",
                 "fim": "00:13:46.923"
@@ -596,10 +639,11 @@
             "tempo_segundos": {
                 "inicio": "818.030s",
                 "fim": "826.923s"
-            }
+            },
+            "deputado": "Ubaldo Fernandes"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:13:45.185",
                 "fim": "00:13:57.048"
@@ -607,10 +651,11 @@
             "tempo_segundos": {
                 "inicio": "825.185s",
                 "fim": "837.048s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "ubaldo_fernandes",
             "tempo": {
                 "inicio": "00:13:52.154",
                 "fim": "00:13:53.673"
@@ -618,10 +663,11 @@
             "tempo_segundos": {
                 "inicio": "832.154s",
                 "fim": "833.673s"
-            }
+            },
+            "deputado": "Ubaldo Fernandes"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:13:57.115",
                 "fim": "00:13:59.798"
@@ -629,10 +675,11 @@
             "tempo_segundos": {
                 "inicio": "837.115s",
                 "fim": "839.798s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_01]",
+            "rotulo": "jose_dias",
             "tempo": {
                 "inicio": "00:13:59.798",
                 "fim": "00:15:40.424"
@@ -640,10 +687,11 @@
             "tempo_segundos": {
                 "inicio": "839.798s",
                 "fim": "940.424s"
-            }
+            },
+            "deputado": "José Dias"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "gustavo_carvalho",
             "tempo": {
                 "inicio": "00:15:39.310",
                 "fim": "00:15:50.515"
@@ -651,10 +699,11 @@
             "tempo_segundos": {
                 "inicio": "939.310s",
                 "fim": "950.515s"
-            }
+            },
+            "deputado": "Gustavo Carvalho"
         },
         {
-            "rotulo": "[SPEAKER_01]",
+            "rotulo": "jose_dias",
             "tempo": {
                 "inicio": "00:15:54.970",
                 "fim": "00:20:08.888"
@@ -662,10 +711,11 @@
             "tempo_segundos": {
                 "inicio": "954.970s",
                 "fim": "1208.888s"
-            }
+            },
+            "deputado": "José Dias"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:20:10.694",
                 "fim": "00:20:57.050"
@@ -673,10 +723,11 @@
             "tempo_segundos": {
                 "inicio": "1210.694s",
                 "fim": "1257.050s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_13]",
+            "rotulo": "coronel_azevedo",
             "tempo": {
                 "inicio": "00:20:57.404",
                 "fim": "00:20:58.450"
@@ -684,10 +735,11 @@
             "tempo_segundos": {
                 "inicio": "1257.404s",
                 "fim": "1258.450s"
-            }
+            },
+            "deputado": "Coronel Azevedo"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:21:02.635",
                 "fim": "00:21:25.771"
@@ -695,10 +747,11 @@
             "tempo_segundos": {
                 "inicio": "1262.635s",
                 "fim": "1285.771s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_13]",
+            "rotulo": "coronel_azevedo",
             "tempo": {
                 "inicio": "00:21:26.530",
                 "fim": "00:21:26.935"
@@ -706,10 +759,11 @@
             "tempo_segundos": {
                 "inicio": "1286.530s",
                 "fim": "1286.935s"
-            }
+            },
+            "deputado": "Coronel Azevedo"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:21:37.145",
                 "fim": "00:21:39.558"
@@ -717,10 +771,11 @@
             "tempo_segundos": {
                 "inicio": "1297.145s",
                 "fim": "1299.558s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_13]",
+            "rotulo": "coronel_azevedo",
             "tempo": {
                 "inicio": "00:21:40.030",
                 "fim": "00:22:48.678"
@@ -728,10 +783,11 @@
             "tempo_segundos": {
                 "inicio": "1300.030s",
                 "fim": "1368.678s"
-            }
+            },
+            "deputado": "Coronel Azevedo"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:22:48.695",
                 "fim": "00:23:13.872"
@@ -739,10 +795,11 @@
             "tempo_segundos": {
                 "inicio": "1368.695s",
                 "fim": "1393.872s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_13]",
+            "rotulo": "coronel_azevedo",
             "tempo": {
                 "inicio": "00:23:14.969",
                 "fim": "00:23:16.859"
@@ -750,10 +807,11 @@
             "tempo_segundos": {
                 "inicio": "1394.969s",
                 "fim": "1396.859s"
-            }
+            },
+            "deputado": "Coronel Azevedo"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:23:17.585",
                 "fim": "00:23:18.631"
@@ -761,10 +819,11 @@
             "tempo_segundos": {
                 "inicio": "1397.585s",
                 "fim": "1398.631s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_13]",
+            "rotulo": "coronel_azevedo",
             "tempo": {
                 "inicio": "00:23:18.631",
                 "fim": "00:23:18.732"
@@ -772,10 +831,11 @@
             "tempo_segundos": {
                 "inicio": "1398.631s",
                 "fim": "1398.732s"
-            }
+            },
+            "deputado": "Coronel Azevedo"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:23:18.968",
                 "fim": "00:23:19.323"
@@ -783,10 +843,11 @@
             "tempo_segundos": {
                 "inicio": "1398.968s",
                 "fim": "1399.323s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_07]",
+            "rotulo": "gustavo_brito",
             "tempo": {
                 "inicio": "00:23:19.070",
                 "fim": "00:23:19.306"
@@ -794,10 +855,11 @@
             "tempo_segundos": {
                 "inicio": "1399.070s",
                 "fim": "1399.306s"
-            }
+            },
+            "deputado": "Gustavo Brito"
         },
         {
-            "rotulo": "[SPEAKER_13]",
+            "rotulo": "coronel_azevedo",
             "tempo": {
                 "inicio": "00:23:19.306",
                 "fim": "00:23:19.964"
@@ -805,10 +867,11 @@
             "tempo_segundos": {
                 "inicio": "1399.306s",
                 "fim": "1399.964s"
-            }
+            },
+            "deputado": "Coronel Azevedo"
         },
         {
-            "rotulo": "[SPEAKER_07]",
+            "rotulo": "gustavo_brito",
             "tempo": {
                 "inicio": "00:23:19.964",
                 "fim": "00:23:24.082"
@@ -816,10 +879,11 @@
             "tempo_segundos": {
                 "inicio": "1399.964s",
                 "fim": "1404.082s"
-            }
+            },
+            "deputado": "Gustavo Brito"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:23:24.537",
                 "fim": "00:23:39.455"
@@ -827,10 +891,11 @@
             "tempo_segundos": {
                 "inicio": "1404.537s",
                 "fim": "1419.455s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_12]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:23:39.455",
                 "fim": "00:23:39.623"
@@ -838,10 +903,11 @@
             "tempo_segundos": {
                 "inicio": "1419.455s",
                 "fim": "1419.623s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:23:39.623",
                 "fim": "00:23:39.657"
@@ -849,10 +915,11 @@
             "tempo_segundos": {
                 "inicio": "1419.623s",
                 "fim": "1419.657s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_12]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:23:39.657",
                 "fim": "00:23:59.603"
@@ -860,10 +927,11 @@
             "tempo_segundos": {
                 "inicio": "1419.657s",
                 "fim": "1439.603s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:23:59.603",
                 "fim": "00:23:59.755"
@@ -871,10 +939,11 @@
             "tempo_segundos": {
                 "inicio": "1439.603s",
                 "fim": "1439.755s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_12]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:23:59.755",
                 "fim": "00:24:04.312"
@@ -882,10 +951,11 @@
             "tempo_segundos": {
                 "inicio": "1439.755s",
                 "fim": "1444.312s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:24:04.497",
                 "fim": "00:24:57.333"
@@ -893,10 +963,11 @@
             "tempo_segundos": {
                 "inicio": "1444.497s",
                 "fim": "1497.333s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_05]",
+            "rotulo": "cristiane_dantas",
             "tempo": {
                 "inicio": "00:24:58.160",
                 "fim": "00:25:30.914"
@@ -904,10 +975,11 @@
             "tempo_segundos": {
                 "inicio": "1498.160s",
                 "fim": "1530.914s"
-            }
+            },
+            "deputado": "Cristiane Dantas"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:25:31.235",
                 "fim": "00:25:53.948"
@@ -915,10 +987,11 @@
             "tempo_segundos": {
                 "inicio": "1531.235s",
                 "fim": "1553.948s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_05]",
+            "rotulo": "cristiane_dantas",
             "tempo": {
                 "inicio": "00:25:54.185",
                 "fim": "00:26:23.058"
@@ -926,10 +999,11 @@
             "tempo_segundos": {
                 "inicio": "1554.185s",
                 "fim": "1583.058s"
-            }
+            },
+            "deputado": "Cristiane Dantas"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:26:24.121",
                 "fim": "00:27:34.895"
@@ -937,10 +1011,11 @@
             "tempo_segundos": {
                 "inicio": "1584.121s",
                 "fim": "1654.895s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "gustavo_carvalho",
             "tempo": {
                 "inicio": "00:27:37.932",
                 "fim": "00:28:46.934"
@@ -948,10 +1023,11 @@
             "tempo_segundos": {
                 "inicio": "1657.932s",
                 "fim": "1726.934s"
-            }
+            },
+            "deputado": "Gustavo Carvalho"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:28:46.934",
                 "fim": "00:28:52.908"
@@ -959,10 +1035,11 @@
             "tempo_segundos": {
                 "inicio": "1726.934s",
                 "fim": "1732.908s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "gustavo_carvalho",
             "tempo": {
                 "inicio": "00:28:46.985",
                 "fim": "00:29:54.839"
@@ -970,10 +1047,11 @@
             "tempo_segundos": {
                 "inicio": "1726.985s",
                 "fim": "1794.839s"
-            }
+            },
+            "deputado": "Gustavo Carvalho"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:29:55.970",
                 "fim": "00:30:21.130"
@@ -981,10 +1059,11 @@
             "tempo_segundos": {
                 "inicio": "1795.970s",
                 "fim": "1821.130s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_13]",
+            "rotulo": "coronel_azevedo",
             "tempo": {
                 "inicio": "00:30:21.535",
                 "fim": "00:31:50.652"
@@ -992,10 +1071,11 @@
             "tempo_segundos": {
                 "inicio": "1821.535s",
                 "fim": "1910.652s"
-            }
+            },
+            "deputado": "Coronel Azevedo"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:31:50.888",
                 "fim": "00:32:10.328"
@@ -1003,10 +1083,11 @@
             "tempo_segundos": {
                 "inicio": "1910.888s",
                 "fim": "1930.328s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "kleber_rodrigues",
             "tempo": {
                 "inicio": "00:32:09.586",
                 "fim": "00:32:10.413"
@@ -1014,10 +1095,11 @@
             "tempo_segundos": {
                 "inicio": "1929.586s",
                 "fim": "1930.413s"
-            }
+            },
+            "deputado": "Kleber Rodrigues"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:32:10.413",
                 "fim": "00:32:10.514"
@@ -1025,10 +1107,11 @@
             "tempo_segundos": {
                 "inicio": "1930.413s",
                 "fim": "1930.514s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "kleber_rodrigues",
             "tempo": {
                 "inicio": "00:32:11.003",
                 "fim": "00:32:24.048"
@@ -1036,10 +1119,11 @@
             "tempo_segundos": {
                 "inicio": "1931.003s",
                 "fim": "1944.048s"
-            }
+            },
+            "deputado": "Kleber Rodrigues"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:32:19.407",
                 "fim": "00:33:22.756"
@@ -1047,10 +1131,11 @@
             "tempo_segundos": {
                 "inicio": "1939.407s",
                 "fim": "2002.756s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "taveira_junior",
             "tempo": {
                 "inicio": "00:33:24.511",
                 "fim": "00:35:40.102"
@@ -1058,43 +1143,23 @@
             "tempo_segundos": {
                 "inicio": "2004.511s",
                 "fim": "2140.102s"
-            }
+            },
+            "deputado": "Taveira Júnior"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:35:42.683",
-                "fim": "00:43:53.037"
-            },
-            "tempo_segundos": {
-                "inicio": "2142.683s",
-                "fim": "2633.037s"
-            }
-        },
-        {
-            "rotulo": "[SPEAKER_00]",
-            "tempo": {
-                "inicio": "00:43:49.527",
-                "fim": "00:43:49.898"
-            },
-            "tempo_segundos": {
-                "inicio": "2629.527s",
-                "fim": "2629.898s"
-            }
-        },
-        {
-            "rotulo": "[SPEAKER_11]",
-            "tempo": {
-                "inicio": "00:43:53.189",
                 "fim": "00:44:47.459"
             },
             "tempo_segundos": {
-                "inicio": "2633.189s",
+                "inicio": "2142.683s",
                 "fim": "2687.459s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_08]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:44:45.687",
                 "fim": "00:44:48.252"
@@ -1102,10 +1167,11 @@
             "tempo_segundos": {
                 "inicio": "2685.687s",
                 "fim": "2688.252s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:44:47.476",
                 "fim": "00:44:49.771"
@@ -1113,10 +1179,11 @@
             "tempo_segundos": {
                 "inicio": "2687.476s",
                 "fim": "2689.771s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_08]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:44:49.838",
                 "fim": "00:45:42.033"
@@ -1124,10 +1191,11 @@
             "tempo_segundos": {
                 "inicio": "2689.838s",
                 "fim": "2742.033s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:45:40.379",
                 "fim": "00:45:40.565"
@@ -1135,21 +1203,11 @@
             "tempo_segundos": {
                 "inicio": "2740.379s",
                 "fim": "2740.565s"
-            }
-        },
-        {
-            "rotulo": "[SPEAKER_04]",
-            "tempo": {
-                "inicio": "00:45:40.565",
-                "fim": "00:45:40.582"
             },
-            "tempo_segundos": {
-                "inicio": "2740.565s",
-                "fim": "2740.582s"
-            }
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:45:40.582",
                 "fim": "00:45:40.970"
@@ -1157,10 +1215,11 @@
             "tempo_segundos": {
                 "inicio": "2740.582s",
                 "fim": "2740.970s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "isolda_dantas",
             "tempo": {
                 "inicio": "00:45:40.970",
                 "fim": "00:45:41.307"
@@ -1168,10 +1227,11 @@
             "tempo_segundos": {
                 "inicio": "2740.970s",
                 "fim": "2741.307s"
-            }
+            },
+            "deputado": "Isolda Dantas"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:45:41.307",
                 "fim": "00:45:41.358"
@@ -1179,10 +1239,11 @@
             "tempo_segundos": {
                 "inicio": "2741.307s",
                 "fim": "2741.358s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "isolda_dantas",
             "tempo": {
                 "inicio": "00:45:41.358",
                 "fim": "00:45:41.408"
@@ -1190,10 +1251,11 @@
             "tempo_segundos": {
                 "inicio": "2741.358s",
                 "fim": "2741.408s"
-            }
+            },
+            "deputado": "Isolda Dantas"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:45:41.408",
                 "fim": "00:45:41.459"
@@ -1201,10 +1263,11 @@
             "tempo_segundos": {
                 "inicio": "2741.408s",
                 "fim": "2741.459s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "isolda_dantas",
             "tempo": {
                 "inicio": "00:45:41.459",
                 "fim": "00:45:41.611"
@@ -1212,10 +1275,11 @@
             "tempo_segundos": {
                 "inicio": "2741.459s",
                 "fim": "2741.611s"
-            }
+            },
+            "deputado": "Isolda Dantas"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:45:43.163",
                 "fim": "00:45:45.948"
@@ -1223,10 +1287,11 @@
             "tempo_segundos": {
                 "inicio": "2743.163s",
                 "fim": "2745.948s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "isolda_dantas",
             "tempo": {
                 "inicio": "00:45:46.184",
                 "fim": "00:46:21.166"
@@ -1234,10 +1299,11 @@
             "tempo_segundos": {
                 "inicio": "2746.184s",
                 "fim": "2781.166s"
-            }
+            },
+            "deputado": "Isolda Dantas"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:46:22.769",
                 "fim": "00:46:23.663"
@@ -1245,10 +1311,11 @@
             "tempo_segundos": {
                 "inicio": "2782.769s",
                 "fim": "2783.663s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "isolda_dantas",
             "tempo": {
                 "inicio": "00:46:22.904",
                 "fim": "00:46:26.093"
@@ -1256,10 +1323,11 @@
             "tempo_segundos": {
                 "inicio": "2782.904s",
                 "fim": "2786.093s"
-            }
+            },
+            "deputado": "Isolda Dantas"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:46:24.997",
                 "fim": "00:46:26.228"
@@ -1267,10 +1335,11 @@
             "tempo_segundos": {
                 "inicio": "2784.997s",
                 "fim": "2786.228s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "isolda_dantas",
             "tempo": {
                 "inicio": "00:46:27.967",
                 "fim": "00:46:38.294"
@@ -1278,10 +1347,11 @@
             "tempo_segundos": {
                 "inicio": "2787.967s",
                 "fim": "2798.294s"
-            }
+            },
+            "deputado": "Isolda Dantas"
         },
         {
-            "rotulo": "[SPEAKER_12]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:46:38.260",
                 "fim": "00:46:40.606"
@@ -1289,10 +1359,11 @@
             "tempo_segundos": {
                 "inicio": "2798.260s",
                 "fim": "2800.606s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:46:38.294",
                 "fim": "00:46:39.475"
@@ -1300,10 +1371,11 @@
             "tempo_segundos": {
                 "inicio": "2798.294s",
                 "fim": "2799.475s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "isolda_dantas",
             "tempo": {
                 "inicio": "00:46:39.475",
                 "fim": "00:46:39.627"
@@ -1311,10 +1383,11 @@
             "tempo_segundos": {
                 "inicio": "2799.475s",
                 "fim": "2799.627s"
-            }
+            },
+            "deputado": "Isolda Dantas"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:46:39.627",
                 "fim": "00:46:39.644"
@@ -1322,10 +1395,11 @@
             "tempo_segundos": {
                 "inicio": "2799.627s",
                 "fim": "2799.644s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_12]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:46:41.095",
                 "fim": "00:47:12.500"
@@ -1333,10 +1407,11 @@
             "tempo_segundos": {
                 "inicio": "2801.095s",
                 "fim": "2832.500s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:47:12.770",
                 "fim": "00:47:42.132"
@@ -1344,10 +1419,11 @@
             "tempo_segundos": {
                 "inicio": "2832.770s",
                 "fim": "2862.132s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_05]",
+            "rotulo": "cristiane_dantas",
             "tempo": {
                 "inicio": "00:47:41.052",
                 "fim": "00:48:00.475"
@@ -1355,10 +1431,11 @@
             "tempo_segundos": {
                 "inicio": "2861.052s",
                 "fim": "2880.475s"
-            }
+            },
+            "deputado": "Cristiane Dantas"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:48:00.475",
                 "fim": "00:48:03.040"
@@ -1366,10 +1443,11 @@
             "tempo_segundos": {
                 "inicio": "2880.475s",
                 "fim": "2883.040s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_05]",
+            "rotulo": "cristiane_dantas",
             "tempo": {
                 "inicio": "00:48:01.437",
                 "fim": "00:48:02.399"
@@ -1377,10 +1455,11 @@
             "tempo_segundos": {
                 "inicio": "2881.437s",
                 "fim": "2882.399s"
-            }
+            },
+            "deputado": "Cristiane Dantas"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "divaneide_basilio",
             "tempo": {
                 "inicio": "00:48:02.399",
                 "fim": "00:48:02.433"
@@ -1388,10 +1467,11 @@
             "tempo_segundos": {
                 "inicio": "2882.399s",
                 "fim": "2882.433s"
-            }
+            },
+            "deputado": "Divaneide Basílio"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:48:03.479",
                 "fim": "00:48:04.846"
@@ -1399,10 +1479,11 @@
             "tempo_segundos": {
                 "inicio": "2883.479s",
                 "fim": "2884.846s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "divaneide_basilio",
             "tempo": {
                 "inicio": "00:48:04.998",
                 "fim": "00:48:24.218"
@@ -1410,10 +1491,11 @@
             "tempo_segundos": {
                 "inicio": "2884.998s",
                 "fim": "2904.218s"
-            }
+            },
+            "deputado": "Divaneide Basílio"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:48:24.320",
                 "fim": "00:48:50.847"
@@ -1421,10 +1503,11 @@
             "tempo_segundos": {
                 "inicio": "2904.320s",
                 "fim": "2930.847s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_12]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:48:51.488",
                 "fim": "00:51:03.316"
@@ -1432,10 +1515,11 @@
             "tempo_segundos": {
                 "inicio": "2931.488s",
                 "fim": "3063.316s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "isolda_dantas",
             "tempo": {
                 "inicio": "00:51:02.860",
                 "fim": "00:51:04.160"
@@ -1443,10 +1527,11 @@
             "tempo_segundos": {
                 "inicio": "3062.860s",
                 "fim": "3064.160s"
-            }
+            },
+            "deputado": "Isolda Dantas"
         },
         {
-            "rotulo": "[SPEAKER_12]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:51:04.244",
                 "fim": "00:52:32.416"
@@ -1454,10 +1539,11 @@
             "tempo_segundos": {
                 "inicio": "3064.244s",
                 "fim": "3152.416s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:52:36.280",
                 "fim": "00:52:44.954"
@@ -1465,10 +1551,11 @@
             "tempo_segundos": {
                 "inicio": "3156.280s",
                 "fim": "3164.954s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "ubaldo_fernandes",
             "tempo": {
                 "inicio": "00:52:45.022",
                 "fim": "00:55:36.607"
@@ -1476,10 +1563,11 @@
             "tempo_segundos": {
                 "inicio": "3165.022s",
                 "fim": "3336.607s"
-            }
+            },
+            "deputado": "Ubaldo Fernandes"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "divaneide_basilio",
             "tempo": {
                 "inicio": "00:55:35.898",
                 "fim": "00:55:35.948"
@@ -1487,10 +1575,11 @@
             "tempo_segundos": {
                 "inicio": "3335.898s",
                 "fim": "3335.948s"
-            }
+            },
+            "deputado": "Divaneide Basílio"
         },
         {
-            "rotulo": "[SPEAKER_07]",
+            "rotulo": "hermano_morais",
             "tempo": {
                 "inicio": "00:55:35.948",
                 "fim": "00:55:35.999"
@@ -1498,10 +1587,11 @@
             "tempo_segundos": {
                 "inicio": "3335.948s",
                 "fim": "3335.999s"
-            }
+            },
+            "deputado": "Hermano Morais"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "divaneide_basilio",
             "tempo": {
                 "inicio": "00:55:35.999",
                 "fim": "00:55:36.033"
@@ -1509,10 +1599,11 @@
             "tempo_segundos": {
                 "inicio": "3335.999s",
                 "fim": "3336.033s"
-            }
+            },
+            "deputado": "Divaneide Basílio"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "ubaldo_fernandes",
             "tempo": {
                 "inicio": "00:55:36.877",
                 "fim": "00:55:51.001"
@@ -1520,10 +1611,11 @@
             "tempo_segundos": {
                 "inicio": "3336.877s",
                 "fim": "3351.001s"
-            }
+            },
+            "deputado": "Ubaldo Fernandes"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:55:51.001",
                 "fim": "00:55:59.877"
@@ -1531,10 +1623,11 @@
             "tempo_segundos": {
                 "inicio": "3351.001s",
                 "fim": "3359.877s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_07]",
+            "rotulo": "hermano_morais",
             "tempo": {
                 "inicio": "00:55:59.877",
                 "fim": "00:59:09.552"
@@ -1542,10 +1635,11 @@
             "tempo_segundos": {
                 "inicio": "3359.877s",
                 "fim": "3549.552s"
-            }
+            },
+            "deputado": "Hermano Morais"
         },
         {
-            "rotulo": "[SPEAKER_11]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:59:09.552",
                 "fim": "01:00:11.990"
@@ -1553,12 +1647,13 @@
             "tempo_segundos": {
                 "inicio": "3549.552s",
                 "fim": "3611.990s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         }
     ],
     "vid_4171.mp4": [
         {
-            "rotulo": "[SPEAKER_05]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:00:12.957",
                 "fim": "00:00:43.332"
@@ -1566,10 +1661,11 @@
             "tempo_segundos": {
                 "inicio": "12.957s",
                 "fim": "43.332s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:00:44.277",
                 "fim": "00:08:48.050"
@@ -1577,10 +1673,11 @@
             "tempo_segundos": {
                 "inicio": "44.277s",
                 "fim": "528.050s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_05]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:08:52.657",
                 "fim": "00:11:06.847"
@@ -1588,10 +1685,11 @@
             "tempo_segundos": {
                 "inicio": "532.657s",
                 "fim": "666.847s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "jose_dias",
             "tempo": {
                 "inicio": "00:11:07.285",
                 "fim": "00:18:12.029"
@@ -1599,10 +1697,11 @@
             "tempo_segundos": {
                 "inicio": "667.285s",
                 "fim": "1092.029s"
-            }
+            },
+            "deputado": "José Dias"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:18:17.345",
                 "fim": "00:18:25.782"
@@ -1610,10 +1709,11 @@
             "tempo_segundos": {
                 "inicio": "1097.345s",
                 "fim": "1105.782s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_01]",
+            "rotulo": "coronel_azevedo",
             "tempo": {
                 "inicio": "00:18:32.785",
                 "fim": "00:23:21.145"
@@ -1621,10 +1721,11 @@
             "tempo_segundos": {
                 "inicio": "1112.785s",
                 "fim": "1401.145s"
-            }
+            },
+            "deputado": "Coronel Azevedo"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:23:21.382",
                 "fim": "00:23:22.563"
@@ -1632,10 +1733,11 @@
             "tempo_segundos": {
                 "inicio": "1401.382s",
                 "fim": "1402.563s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_01]",
+            "rotulo": "coronel_azevedo",
             "tempo": {
                 "inicio": "00:23:23.018",
                 "fim": "00:24:15.027"
@@ -1643,10 +1745,11 @@
             "tempo_segundos": {
                 "inicio": "1403.018s",
                 "fim": "1455.027s"
-            }
+            },
+            "deputado": "Coronel Azevedo"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:24:19.364",
                 "fim": "00:24:26.654"
@@ -1654,10 +1757,11 @@
             "tempo_segundos": {
                 "inicio": "1459.364s",
                 "fim": "1466.654s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_08]",
+            "rotulo": "luiz_eduardo",
             "tempo": {
                 "inicio": "00:24:45.031",
                 "fim": "00:29:28.480"
@@ -1665,10 +1769,11 @@
             "tempo_segundos": {
                 "inicio": "1485.031s",
                 "fim": "1768.480s"
-            }
+            },
+            "deputado": "Luiz Eduardo"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "terezinha_maia",
             "tempo": {
                 "inicio": "00:29:52.257",
                 "fim": "00:29:56.577"
@@ -1676,10 +1781,11 @@
             "tempo_segundos": {
                 "inicio": "1792.257s",
                 "fim": "1796.577s"
-            }
+            },
+            "deputado": "Terezinha Maia"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:29:57.725",
                 "fim": "00:30:01.640"
@@ -1687,10 +1793,11 @@
             "tempo_segundos": {
                 "inicio": "1797.725s",
                 "fim": "1801.640s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "terezinha_maia",
             "tempo": {
                 "inicio": "00:29:57.775",
                 "fim": "00:29:57.877"
@@ -1698,10 +1805,11 @@
             "tempo_segundos": {
                 "inicio": "1797.775s",
                 "fim": "1797.877s"
-            }
+            },
+            "deputado": "Terezinha Maia"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:30:02.855",
                 "fim": "00:33:41.285"
@@ -1709,10 +1817,11 @@
             "tempo_segundos": {
                 "inicio": "1802.855s",
                 "fim": "2021.285s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "terezinha_maia",
             "tempo": {
                 "inicio": "00:33:43.698",
                 "fim": "00:33:57.215"
@@ -1720,10 +1829,11 @@
             "tempo_segundos": {
                 "inicio": "2023.698s",
                 "fim": "2037.215s"
-            }
+            },
+            "deputado": "Terezinha Maia"
         },
         {
-            "rotulo": "[SPEAKER_07]",
+            "rotulo": "hermano_morais",
             "tempo": {
                 "inicio": "00:33:57.215",
                 "fim": "00:36:09.464"
@@ -1731,10 +1841,11 @@
             "tempo_segundos": {
                 "inicio": "2037.215s",
                 "fim": "2169.464s"
-            }
+            },
+            "deputado": "Hermano Morais"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "terezinha_maia",
             "tempo": {
                 "inicio": "00:36:10.747",
                 "fim": "00:36:14.324"
@@ -1742,10 +1853,11 @@
             "tempo_segundos": {
                 "inicio": "2170.747s",
                 "fim": "2174.324s"
-            }
+            },
+            "deputado": "Terezinha Maia"
         },
         {
-            "rotulo": "[SPEAKER_07]",
+            "rotulo": "hermano_morais",
             "tempo": {
                 "inicio": "00:36:14.375",
                 "fim": "00:37:20.693"
@@ -1753,10 +1865,11 @@
             "tempo_segundos": {
                 "inicio": "2174.375s",
                 "fim": "2240.693s"
-            }
+            },
+            "deputado": "Hermano Morais"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "terezinha_maia",
             "tempo": {
                 "inicio": "00:37:26.414",
                 "fim": "00:37:27.578"
@@ -1764,10 +1877,11 @@
             "tempo_segundos": {
                 "inicio": "2246.414s",
                 "fim": "2247.578s"
-            }
+            },
+            "deputado": "Terezinha Maia"
         },
         {
-            "rotulo": "[SPEAKER_07]",
+            "rotulo": "hermano_morais",
             "tempo": {
                 "inicio": "00:37:27.055",
                 "fim": "00:37:38.834"
@@ -1775,10 +1889,11 @@
             "tempo_segundos": {
                 "inicio": "2247.055s",
                 "fim": "2258.834s"
-            }
+            },
+            "deputado": "Hermano Morais"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "terezinha_maia",
             "tempo": {
                 "inicio": "00:37:40.623",
                 "fim": "00:38:10.964"
@@ -1786,10 +1901,11 @@
             "tempo_segundos": {
                 "inicio": "2260.623s",
                 "fim": "2290.964s"
-            }
+            },
+            "deputado": "Terezinha Maia"
         },
         {
-            "rotulo": "[SPEAKER_03]",
+            "rotulo": "francisco_do_pt",
             "tempo": {
                 "inicio": "00:38:12.196",
                 "fim": "00:47:03.404"
@@ -1797,10 +1913,11 @@
             "tempo_segundos": {
                 "inicio": "2292.196s",
                 "fim": "2823.404s"
-            }
+            },
+            "deputado": "Francisco do PT"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "terezinha_maia",
             "tempo": {
                 "inicio": "00:47:08.618",
                 "fim": "00:47:13.883"
@@ -1808,10 +1925,11 @@
             "tempo_segundos": {
                 "inicio": "2828.618s",
                 "fim": "2833.883s"
-            }
+            },
+            "deputado": "Terezinha Maia"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "neilton_diogenes",
             "tempo": {
                 "inicio": "00:47:15.419",
                 "fim": "00:50:54.507"
@@ -1819,10 +1937,11 @@
             "tempo_segundos": {
                 "inicio": "2835.419s",
                 "fim": "3054.507s"
-            }
+            },
+            "deputado": "Neilton Diógenes"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "terezinha_maia",
             "tempo": {
                 "inicio": "00:50:58.338",
                 "fim": "00:51:21.423"
@@ -1830,12 +1949,13 @@
             "tempo_segundos": {
                 "inicio": "3058.338s",
                 "fim": "3081.423s"
-            }
+            },
+            "deputado": "Terezinha Maia"
         }
     ],
     "vid_4187.mp4": [
         {
-            "rotulo": "[SPEAKER_07]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:00:16.113",
                 "fim": "00:00:47.416"
@@ -1843,10 +1963,11 @@
             "tempo_segundos": {
                 "inicio": "16.113s",
                 "fim": "47.416s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "galeno_torquato",
             "tempo": {
                 "inicio": "00:00:47.652",
                 "fim": "00:05:13.298"
@@ -1854,10 +1975,11 @@
             "tempo_segundos": {
                 "inicio": "47.652s",
                 "fim": "313.298s"
-            }
+            },
+            "deputado": "Galeno Torquato"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:05:20.234",
                 "fim": "00:05:41.598"
@@ -1865,10 +1987,11 @@
             "tempo_segundos": {
                 "inicio": "320.234s",
                 "fim": "341.598s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_08]",
+            "rotulo": "hermano_morais",
             "tempo": {
                 "inicio": "00:05:41.598",
                 "fim": "00:10:44.369"
@@ -1876,10 +1999,11 @@
             "tempo_segundos": {
                 "inicio": "341.598s",
                 "fim": "644.369s"
-            }
+            },
+            "deputado": "Hermano Morais"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:10:46.495",
                 "fim": "00:10:50.849"
@@ -1887,10 +2011,11 @@
             "tempo_segundos": {
                 "inicio": "646.495s",
                 "fim": "650.849s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "ubaldo_fernandes",
             "tempo": {
                 "inicio": "00:10:53.971",
                 "fim": "00:16:08.251"
@@ -1898,10 +2023,11 @@
             "tempo_segundos": {
                 "inicio": "653.971s",
                 "fim": "968.251s"
-            }
+            },
+            "deputado": "Ubaldo Fernandes"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:16:08.302",
                 "fim": "00:16:10.192"
@@ -1909,10 +2035,11 @@
             "tempo_segundos": {
                 "inicio": "968.302s",
                 "fim": "970.192s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "ubaldo_fernandes",
             "tempo": {
                 "inicio": "00:16:10.073",
                 "fim": "00:17:12.275"
@@ -1920,10 +2047,11 @@
             "tempo_segundos": {
                 "inicio": "970.073s",
                 "fim": "1032.275s"
-            }
+            },
+            "deputado": "Ubaldo Fernandes"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:17:14.536",
                 "fim": "00:17:20.442"
@@ -1931,10 +2059,11 @@
             "tempo_segundos": {
                 "inicio": "1034.536s",
                 "fim": "1040.442s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_05]",
+            "rotulo": "dr_kerginaldo",
             "tempo": {
                 "inicio": "00:17:20.442",
                 "fim": "00:20:30.337"
@@ -1942,10 +2071,11 @@
             "tempo_segundos": {
                 "inicio": "1040.442s",
                 "fim": "1230.337s"
-            }
+            },
+            "deputado": "Dr. Kerginaldo"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:20:35.888",
                 "fim": "00:20:41.643"
@@ -1953,10 +2083,11 @@
             "tempo_segundos": {
                 "inicio": "1235.888s",
                 "fim": "1241.643s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "kleber_rodrigues",
             "tempo": {
                 "inicio": "00:20:43.111",
                 "fim": "00:25:53.830"
@@ -1964,10 +2095,11 @@
             "tempo_segundos": {
                 "inicio": "1243.111s",
                 "fim": "1553.830s"
-            }
+            },
+            "deputado": "Kleber Rodrigues"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:25:58.707",
                 "fim": "00:25:59.855"
@@ -1975,10 +2107,11 @@
             "tempo_segundos": {
                 "inicio": "1558.707s",
                 "fim": "1559.855s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "kleber_rodrigues",
             "tempo": {
                 "inicio": "00:25:59.855",
                 "fim": "00:26:00.547"
@@ -1986,10 +2119,11 @@
             "tempo_segundos": {
                 "inicio": "1559.855s",
                 "fim": "1560.547s"
-            }
+            },
+            "deputado": "Kleber Rodrigues"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:26:00.547",
                 "fim": "00:26:00.614"
@@ -1997,10 +2131,11 @@
             "tempo_segundos": {
                 "inicio": "1560.547s",
                 "fim": "1560.614s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "kleber_rodrigues",
             "tempo": {
                 "inicio": "00:26:01.087",
                 "fim": "00:26:59.002"
@@ -2008,43 +2143,23 @@
             "tempo_segundos": {
                 "inicio": "1561.087s",
                 "fim": "1619.002s"
-            }
+            },
+            "deputado": "Kleber Rodrigues"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:27:01.769",
-                "fim": "00:27:14.155"
-            },
-            "tempo_segundos": {
-                "inicio": "1621.769s",
-                "fim": "1634.155s"
-            }
-        },
-        {
-            "rotulo": "[SPEAKER_00]",
-            "tempo": {
-                "inicio": "00:27:04.857",
-                "fim": "00:27:05.330"
-            },
-            "tempo_segundos": {
-                "inicio": "1624.857s",
-                "fim": "1625.330s"
-            }
-        },
-        {
-            "rotulo": "[SPEAKER_09]",
-            "tempo": {
-                "inicio": "00:27:14.290",
                 "fim": "00:27:22.525"
             },
             "tempo_segundos": {
-                "inicio": "1634.290s",
+                "inicio": "1621.769s",
                 "fim": "1642.525s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_03]",
+            "rotulo": "terezinha_maia",
             "tempo": {
                 "inicio": "00:27:23.825",
                 "fim": "00:30:40.705"
@@ -2052,10 +2167,11 @@
             "tempo_segundos": {
                 "inicio": "1643.825s",
                 "fim": "1840.705s"
-            }
+            },
+            "deputado": "Terezinha Maia"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:30:46.932",
                 "fim": "00:30:55.572"
@@ -2063,10 +2179,11 @@
             "tempo_segundos": {
                 "inicio": "1846.932s",
                 "fim": "1855.572s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:30:56.095",
                 "fim": "00:31:50.078"
@@ -2074,10 +2191,11 @@
             "tempo_segundos": {
                 "inicio": "1856.095s",
                 "fim": "1910.078s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:31:50.332",
                 "fim": "00:31:50.568"
@@ -2085,10 +2203,11 @@
             "tempo_segundos": {
                 "inicio": "1910.332s",
                 "fim": "1910.568s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:31:50.568",
                 "fim": "00:31:53.555"
@@ -2096,10 +2215,11 @@
             "tempo_segundos": {
                 "inicio": "1910.568s",
                 "fim": "1913.555s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:31:50.602",
                 "fim": "00:31:56.339"
@@ -2107,10 +2227,11 @@
             "tempo_segundos": {
                 "inicio": "1910.602s",
                 "fim": "1916.339s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:31:55.512",
                 "fim": "00:31:58.938"
@@ -2118,10 +2239,11 @@
             "tempo_segundos": {
                 "inicio": "1915.512s",
                 "fim": "1918.938s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:31:58.330",
                 "fim": "00:31:59.107"
@@ -2129,10 +2251,11 @@
             "tempo_segundos": {
                 "inicio": "1918.330s",
                 "fim": "1919.107s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:31:59.107",
                 "fim": "00:32:01.165"
@@ -2140,10 +2263,11 @@
             "tempo_segundos": {
                 "inicio": "1919.107s",
                 "fim": "1921.165s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:31:59.275",
                 "fim": "00:31:59.782"
@@ -2151,10 +2275,11 @@
             "tempo_segundos": {
                 "inicio": "1919.275s",
                 "fim": "1919.782s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:32:01.570",
                 "fim": "00:32:28.790"
@@ -2162,10 +2287,11 @@
             "tempo_segundos": {
                 "inicio": "1921.570s",
                 "fim": "1948.790s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:32:27.693",
                 "fim": "00:32:34.409"
@@ -2173,10 +2299,11 @@
             "tempo_segundos": {
                 "inicio": "1947.693s",
                 "fim": "1954.409s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:32:29.397",
                 "fim": "00:34:34.643"
@@ -2184,10 +2311,11 @@
             "tempo_segundos": {
                 "inicio": "1949.397s",
                 "fim": "2074.643s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_05]",
+            "rotulo": "dr_kerginaldo",
             "tempo": {
                 "inicio": "00:34:32.635",
                 "fim": "00:34:32.720"
@@ -2195,10 +2323,11 @@
             "tempo_segundos": {
                 "inicio": "2072.635s",
                 "fim": "2072.720s"
-            }
+            },
+            "deputado": "Dr. Kerginaldo"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:34:35.167",
                 "fim": "00:36:54.166"
@@ -2206,10 +2335,11 @@
             "tempo_segundos": {
                 "inicio": "2075.167s",
                 "fim": "2214.166s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:36:57.102",
                 "fim": "00:37:00.713"
@@ -2217,10 +2347,11 @@
             "tempo_segundos": {
                 "inicio": "2217.102s",
                 "fim": "2220.713s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:36:59.768",
                 "fim": "00:37:00.410"
@@ -2228,54 +2359,23 @@
             "tempo_segundos": {
                 "inicio": "2219.768s",
                 "fim": "2220.410s"
-            }
-        },
-        {
-            "rotulo": "[SPEAKER_00]",
-            "tempo": {
-                "inicio": "00:37:00.410",
-                "fim": "00:37:00.646"
             },
-            "tempo_segundos": {
-                "inicio": "2220.410s",
-                "fim": "2220.646s"
-            }
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:37:00.967",
-                "fim": "00:37:05.810"
-            },
-            "tempo_segundos": {
-                "inicio": "2220.967s",
-                "fim": "2225.810s"
-            }
-        },
-        {
-            "rotulo": "[SPEAKER_00]",
-            "tempo": {
-                "inicio": "00:37:03.970",
-                "fim": "00:37:04.004"
-            },
-            "tempo_segundos": {
-                "inicio": "2223.970s",
-                "fim": "2224.004s"
-            }
-        },
-        {
-            "rotulo": "[SPEAKER_09]",
-            "tempo": {
-                "inicio": "00:37:06.046",
                 "fim": "00:37:08.527"
             },
             "tempo_segundos": {
-                "inicio": "2226.046s",
+                "inicio": "2220.967s",
                 "fim": "2228.527s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "gustavo_carvalho",
             "tempo": {
                 "inicio": "00:37:08.999",
                 "fim": "00:37:17.656"
@@ -2283,10 +2383,11 @@
             "tempo_segundos": {
                 "inicio": "2228.999s",
                 "fim": "2237.656s"
-            }
+            },
+            "deputado": "Gustavo Carvalho"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "galeno_torquato",
             "tempo": {
                 "inicio": "00:37:17.993",
                 "fim": "00:37:18.871"
@@ -2294,10 +2395,11 @@
             "tempo_segundos": {
                 "inicio": "2237.993s",
                 "fim": "2238.871s"
-            }
+            },
+            "deputado": "Galeno Torquato"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "gustavo_carvalho",
             "tempo": {
                 "inicio": "00:37:18.871",
                 "fim": "00:37:21.554"
@@ -2305,10 +2407,11 @@
             "tempo_segundos": {
                 "inicio": "2238.871s",
                 "fim": "2241.554s"
-            }
+            },
+            "deputado": "Gustavo Carvalho"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "galeno_torquato",
             "tempo": {
                 "inicio": "00:37:21.554",
                 "fim": "00:37:22.702"
@@ -2316,10 +2419,11 @@
             "tempo_segundos": {
                 "inicio": "2241.554s",
                 "fim": "2242.702s"
-            }
+            },
+            "deputado": "Galeno Torquato"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "gustavo_carvalho",
             "tempo": {
                 "inicio": "00:37:22.702",
                 "fim": "00:41:55.469"
@@ -2327,10 +2431,11 @@
             "tempo_segundos": {
                 "inicio": "2242.702s",
                 "fim": "2515.469s"
-            }
+            },
+            "deputado": "Gustavo Carvalho"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:41:55.469",
                 "fim": "00:41:55.486"
@@ -2338,10 +2443,11 @@
             "tempo_segundos": {
                 "inicio": "2515.469s",
                 "fim": "2515.486s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "gustavo_carvalho",
             "tempo": {
                 "inicio": "00:41:55.672",
                 "fim": "00:41:55.975"
@@ -2349,10 +2455,11 @@
             "tempo_segundos": {
                 "inicio": "2515.672s",
                 "fim": "2515.975s"
-            }
+            },
+            "deputado": "Gustavo Carvalho"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:41:55.975",
                 "fim": "00:41:56.026"
@@ -2360,10 +2467,11 @@
             "tempo_segundos": {
                 "inicio": "2515.975s",
                 "fim": "2516.026s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "gustavo_carvalho",
             "tempo": {
                 "inicio": "00:41:56.026",
                 "fim": "00:41:56.279"
@@ -2371,10 +2479,11 @@
             "tempo_segundos": {
                 "inicio": "2516.026s",
                 "fim": "2516.279s"
-            }
+            },
+            "deputado": "Gustavo Carvalho"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:41:56.279",
                 "fim": "00:41:56.330"
@@ -2382,10 +2491,11 @@
             "tempo_segundos": {
                 "inicio": "2516.279s",
                 "fim": "2516.330s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "gustavo_carvalho",
             "tempo": {
                 "inicio": "00:41:57.730",
                 "fim": "00:41:57.747"
@@ -2393,10 +2503,11 @@
             "tempo_segundos": {
                 "inicio": "2517.730s",
                 "fim": "2517.747s"
-            }
+            },
+            "deputado": "Gustavo Carvalho"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:41:57.747",
                 "fim": "00:42:18.368"
@@ -2404,10 +2515,11 @@
             "tempo_segundos": {
                 "inicio": "2517.747s",
                 "fim": "2538.368s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_01]",
+            "rotulo": "eudiane_macedo",
             "tempo": {
                 "inicio": "00:42:18.706",
                 "fim": "00:47:20.279"
@@ -2415,10 +2527,11 @@
             "tempo_segundos": {
                 "inicio": "2538.706s",
                 "fim": "2840.279s"
-            }
+            },
+            "deputado": "Eudiane Macedo"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:47:21.494",
                 "fim": "00:48:39.153"
@@ -2426,12 +2539,13 @@
             "tempo_segundos": {
                 "inicio": "2841.494s",
                 "fim": "2919.153s"
-            }
+            },
+            "deputado": "Tomba Farias"
         }
     ],
     "vid_4188.mp4": [
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:00:12.417",
                 "fim": "00:00:43.163"
@@ -2439,10 +2553,11 @@
             "tempo_segundos": {
                 "inicio": "12.417s",
                 "fim": "43.163s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_01]",
+            "rotulo": "cristiane_dantas",
             "tempo": {
                 "inicio": "00:00:44.058",
                 "fim": "00:09:07.118"
@@ -2450,10 +2565,11 @@
             "tempo_segundos": {
                 "inicio": "44.058s",
                 "fim": "547.118s"
-            }
+            },
+            "deputado": "Cristiane Dantas"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:09:13.987",
                 "fim": "00:09:47.585"
@@ -2461,10 +2577,11 @@
             "tempo_segundos": {
                 "inicio": "553.987s",
                 "fim": "587.585s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_08]",
+            "rotulo": "gustavo_carvalho",
             "tempo": {
                 "inicio": "00:09:49.340",
                 "fim": "00:14:49.090"
@@ -2472,10 +2589,11 @@
             "tempo_segundos": {
                 "inicio": "589.340s",
                 "fim": "889.090s"
-            }
+            },
+            "deputado": "Gustavo Carvalho"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:14:56.903",
                 "fim": "00:15:06.927"
@@ -2483,10 +2601,11 @@
             "tempo_segundos": {
                 "inicio": "896.903s",
                 "fim": "906.927s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_05]",
+            "rotulo": "hermano_morais",
             "tempo": {
                 "inicio": "00:15:06.927",
                 "fim": "00:20:17.849"
@@ -2494,10 +2613,11 @@
             "tempo_segundos": {
                 "inicio": "906.927s",
                 "fim": "1217.849s"
-            }
+            },
+            "deputado": "Hermano Morais"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:20:23.705",
                 "fim": "00:20:35.838"
@@ -2505,10 +2625,11 @@
             "tempo_segundos": {
                 "inicio": "1223.705s",
                 "fim": "1235.838s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_09]",
+            "rotulo": "tomba_farias",
             "tempo": {
                 "inicio": "00:20:35.838",
                 "fim": "00:25:25.885"
@@ -2516,10 +2637,11 @@
             "tempo_segundos": {
                 "inicio": "1235.838s",
                 "fim": "1525.885s"
-            }
+            },
+            "deputado": "Tomba Farias"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:25:25.885",
                 "fim": "00:25:39.790"
@@ -2527,10 +2649,11 @@
             "tempo_segundos": {
                 "inicio": "1525.885s",
                 "fim": "1539.790s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_01]",
+            "rotulo": "cristiane_dantas",
             "tempo": {
                 "inicio": "00:25:41.090",
                 "fim": "00:30:45.683"
@@ -2538,10 +2661,11 @@
             "tempo_segundos": {
                 "inicio": "1541.090s",
                 "fim": "1845.683s"
-            }
+            },
+            "deputado": "Cristiane Dantas"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:30:48.788",
                 "fim": "00:31:13.190"
@@ -2549,10 +2673,11 @@
             "tempo_segundos": {
                 "inicio": "1848.788s",
                 "fim": "1873.190s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_06]",
+            "rotulo": "adjuto_dias",
             "tempo": {
                 "inicio": "00:31:14.978",
                 "fim": "00:32:10.413"
@@ -2560,10 +2685,11 @@
             "tempo_segundos": {
                 "inicio": "1874.978s",
                 "fim": "1930.413s"
-            }
+            },
+            "deputado": "Adjuto Dias"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:32:12.691",
                 "fim": "00:32:22.883"
@@ -2571,10 +2697,11 @@
             "tempo_segundos": {
                 "inicio": "1932.691s",
                 "fim": "1942.883s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_03]",
+            "rotulo": "francisco_do_pt",
             "tempo": {
                 "inicio": "00:32:23.339",
                 "fim": "00:34:21.818"
@@ -2582,10 +2709,11 @@
             "tempo_segundos": {
                 "inicio": "1943.339s",
                 "fim": "2061.818s"
-            }
+            },
+            "deputado": "Francisco do PT"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:34:26.729",
                 "fim": "00:34:38.153"
@@ -2593,10 +2721,11 @@
             "tempo_segundos": {
                 "inicio": "2066.729s",
                 "fim": "2078.153s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "luiz_eduardo",
             "tempo": {
                 "inicio": "00:34:42.760",
                 "fim": "00:35:33.048"
@@ -2604,10 +2733,11 @@
             "tempo_segundos": {
                 "inicio": "2082.760s",
                 "fim": "2133.048s"
-            }
+            },
+            "deputado": "Luiz Eduardo"
         },
         {
-            "rotulo": "[SPEAKER_05]",
+            "rotulo": "hermano_morais",
             "tempo": {
                 "inicio": "00:35:29.167",
                 "fim": "00:35:30.179"
@@ -2615,10 +2745,11 @@
             "tempo_segundos": {
                 "inicio": "2129.167s",
                 "fim": "2130.179s"
-            }
+            },
+            "deputado": "Hermano Morais"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "luiz_eduardo",
             "tempo": {
                 "inicio": "00:35:33.318",
                 "fim": "00:36:46.673"
@@ -2626,10 +2757,11 @@
             "tempo_segundos": {
                 "inicio": "2133.318s",
                 "fim": "2206.673s"
-            }
+            },
+            "deputado": "Luiz Eduardo"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:36:52.073",
                 "fim": "00:37:04.544"
@@ -2637,10 +2769,11 @@
             "tempo_segundos": {
                 "inicio": "2212.073s",
                 "fim": "2224.544s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "ubaldo_fernandes",
             "tempo": {
                 "inicio": "00:37:04.544",
                 "fim": "00:39:07.478"
@@ -2648,10 +2781,11 @@
             "tempo_segundos": {
                 "inicio": "2224.544s",
                 "fim": "2347.478s"
-            }
+            },
+            "deputado": "Ubaldo Fernandes"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:39:09.858",
                 "fim": "00:39:17.182"
@@ -2659,10 +2793,11 @@
             "tempo_segundos": {
                 "inicio": "2349.858s",
                 "fim": "2357.182s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_00]",
+            "rotulo": "divaneide_basilio",
             "tempo": {
                 "inicio": "00:39:18.143",
                 "fim": "00:41:33.211"
@@ -2670,10 +2805,11 @@
             "tempo_segundos": {
                 "inicio": "2358.143s",
                 "fim": "2493.211s"
-            }
+            },
+            "deputado": "Divaneide Basílio"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:41:34.578",
                 "fim": "00:41:42.627"
@@ -2681,10 +2817,11 @@
             "tempo_segundos": {
                 "inicio": "2494.578s",
                 "fim": "2502.627s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_01]",
+            "rotulo": "cristiane_dantas",
             "tempo": {
                 "inicio": "00:41:43.707",
                 "fim": "00:43:26.442"
@@ -2692,10 +2829,11 @@
             "tempo_segundos": {
                 "inicio": "2503.707s",
                 "fim": "2606.442s"
-            }
+            },
+            "deputado": "Cristiane Dantas"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:43:34.711",
                 "fim": "00:44:40.338"
@@ -2703,10 +2841,11 @@
             "tempo_segundos": {
                 "inicio": "2614.711s",
                 "fim": "2680.338s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_07]",
+            "rotulo": "nelter_queiroz",
             "tempo": {
                 "inicio": "00:44:41.468",
                 "fim": "00:46:14.332"
@@ -2714,10 +2853,11 @@
             "tempo_segundos": {
                 "inicio": "2681.468s",
                 "fim": "2774.332s"
-            }
+            },
+            "deputado": "Nelter Queiroz"
         },
         {
-            "rotulo": "[SPEAKER_08]",
+            "rotulo": "gustavo_carvalho",
             "tempo": {
                 "inicio": "00:46:19.107",
                 "fim": "00:46:19.664"
@@ -2725,10 +2865,11 @@
             "tempo_segundos": {
                 "inicio": "2779.107s",
                 "fim": "2779.664s"
-            }
+            },
+            "deputado": "Gustavo Carvalho"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:46:19.968",
                 "fim": "00:46:45.888"
@@ -2736,10 +2877,11 @@
             "tempo_segundos": {
                 "inicio": "2779.968s",
                 "fim": "2805.888s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_10]",
+            "rotulo": "ubaldo_fernandes",
             "tempo": {
                 "inicio": "00:46:46.580",
                 "fim": "00:56:54.772"
@@ -2747,10 +2889,11 @@
             "tempo_segundos": {
                 "inicio": "2806.580s",
                 "fim": "3414.772s"
-            }
+            },
+            "deputado": "Ubaldo Fernandes"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "00:56:56.054",
                 "fim": "00:57:04.846"
@@ -2758,10 +2901,11 @@
             "tempo_segundos": {
                 "inicio": "3416.054s",
                 "fim": "3424.846s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
         },
         {
-            "rotulo": "[SPEAKER_04]",
+            "rotulo": "luiz_eduardo",
             "tempo": {
                 "inicio": "00:57:08.407",
                 "fim": "01:00:35.311"
@@ -2769,10 +2913,11 @@
             "tempo_segundos": {
                 "inicio": "3428.407s",
                 "fim": "3635.311s"
-            }
+            },
+            "deputado": "Luiz Eduardo"
         },
         {
-            "rotulo": "[SPEAKER_02]",
+            "rotulo": "ezequiel_ferreira",
             "tempo": {
                 "inicio": "01:00:37.066",
                 "fim": "01:04:35.054"
@@ -2780,7 +2925,106 @@
             "tempo_segundos": {
                 "inicio": "3637.066s",
                 "fim": "3875.054s"
-            }
+            },
+            "deputado": "Ezequiel Ferreira"
+        }
+    ],
+    "vid_4223.mp4": [
+        {
+            "rotulo": "vivaldo_costa",
+            "tempo": {
+                "inicio": "00:00:00.031",
+                "fim": "00:00:27.959"
+            },
+            "tempo_segundos": {
+                "inicio": "0.031s",
+                "fim": "27.959s"
+            },
+            "deputado": "Vivaldo Costa"
+        }
+    ],
+    "vid_4247.mp4": [
+        {
+            "rotulo": "terezinha_maia",
+            "tempo": {
+                "inicio": "00:00:00.031",
+                "fim": "00:03:53.227"
+            },
+            "tempo_segundos": {
+                "inicio": "0.031s",
+                "fim": "233.227s"
+            },
+            "deputado": "Terezinha Maia"
+        }
+    ],
+    "vid_4256.mp4": [
+        {
+            "rotulo": "taveira_junior",
+            "tempo": {
+                "inicio": "00:00:00.031",
+                "fim": "00:10:39.695"
+            },
+            "tempo_segundos": {
+                "inicio": "0.031s",
+                "fim": "639.695s"
+            },
+            "deputado": "Taveira Júnior"
+        }
+    ],
+    "vid_4262.mp4": [
+        {
+            "rotulo": "isolda_dantas",
+            "tempo": {
+                "inicio": "00:00:01.583",
+                "fim": "00:10:59.017"
+            },
+            "tempo_segundos": {
+                "inicio": "1.583s",
+                "fim": "659.017s"
+            },
+            "deputado": "Isolda Dantas"
+        }
+    ],
+    "vid_4267.mp4": [
+        {
+            "rotulo": "neilton_diogenes",
+            "tempo": {
+                "inicio": "00:00:05.397",
+                "fim": "00:02:07.387"
+            },
+            "tempo_segundos": {
+                "inicio": "5.397s",
+                "fim": "127.387s"
+            },
+            "deputado": "Neilton Diógenes"
+        }
+    ],
+    "vid_4270-1.mp4": [
+        {
+            "rotulo": "adjuto_dias",
+            "tempo": {
+                "inicio": "00:00:21.665",
+                "fim": "00:02:43.162"
+            },
+            "tempo_segundos": {
+                "inicio": "21.665s",
+                "fim": "163.162s"
+            },
+            "deputado": "Adjuto Dias"
+        }
+    ],
+    "vid_4270-2.mp4": [
+        {
+            "rotulo": "divaneide_basilio",
+            "tempo": {
+                "inicio": "00:00:00.166",
+                "fim": "00:02:11.183"
+            },
+            "tempo_segundos": {
+                "inicio": "0.166s",
+                "fim": "131.183s"
+            },
+            "deputado": "Divaneide Basílio"
         }
     ]
 }
